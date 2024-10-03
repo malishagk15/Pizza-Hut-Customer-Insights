@@ -1,0 +1,4 @@
+Sentiment,quality,delivery,customer service,price,menu,cleanliness,online,staff,time,money,package,Sentiment Count
+positive,13,69,55,33,17,2,29,60,128,41,1,450
+neutral,0,4,0,1,1,0,3,1,9,4,0,105
+negative,17,87,89,27,12,0,50,56,132,52,0,445
